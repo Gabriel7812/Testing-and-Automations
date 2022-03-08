@@ -202,4 +202,3 @@ Test automation should not be used as a substitute for manual testing. It should
 Finally, we must remember that test automation is an investment whose return is long-term. The path to maturity in test automation is tortuous and time-consuming.
 
 In this journey, unforeseen problems, incorrect assumptions, unaligned expectations, defects in the automation tool, lack of stability in the application, problems in the infrastructure /environment, among other aspects discussed in this article will probably arise. The important thing is to learn from their own mistakes and move on, after all, those who cannot remember the mistakes of the past are doomed to repeat them (George Santayanna).
-

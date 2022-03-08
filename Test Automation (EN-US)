@@ -133,7 +133,7 @@ Align expectations and ensure the collaboration of all involved
 
 Test automation projects often fail because the people involved have different perceptions about the benefits and limitations of such a project.
 
-Typically senior management believes that test automation is the solution to all problems. Architects and developers are unaware of the need to create mechanisms to increase stability during application design and development.
+Typically senior management believes that test automation is the solution to all problems. Architects and developers are unaware of the need to create mechanisms to increase stability during application design and development..
 
 The testing team, in turn, often believes that test automation is a simple task that requires no training and is summarized only by transforming manual tests into automated test scripts through the recording capabilities offered by test automation tools.
 

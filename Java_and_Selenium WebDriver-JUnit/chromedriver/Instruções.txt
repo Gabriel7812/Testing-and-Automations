@@ -1,0 +1,4 @@
+Nesta pasta você ira colocar o executavel (.exe) do chromedriver 
+ou 
+de qualquer outro navegador que vá usar
+e depois setar em seu código esta caminho de pasta...

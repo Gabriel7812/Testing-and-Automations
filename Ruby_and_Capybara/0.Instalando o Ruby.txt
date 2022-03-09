@@ -1,5 +1,5 @@
 Video para se guiar caso esteja com dúvidas 
-https://1drv.ms/u/s!AqtzQAaXe6ycpixtuPvCtjhxd0xc?e=pYEEoh (Video QNW#02)
+https://1drv.ms/u/s!AqtzQAaXe6ycplYf_G0PDPxjGUg7?e=G4ahcG (Video QNW#02)
 
 Instalar o Ruby em sua maquina através do site abaixo
 https://www.ruby-lang.org/pt/

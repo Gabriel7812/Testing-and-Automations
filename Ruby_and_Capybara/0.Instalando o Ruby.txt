@@ -1,0 +1,10 @@
+Video para se guiar caso esteja com dúvidas 
+https://1drv.ms/u/s!AqtzQAaXe6ycpixtuPvCtjhxd0xc?e=pYEEoh (Video QNW#02)
+
+Instalar o Ruby em sua maquina através do site abaixo
+https://www.ruby-lang.org/pt/
+
+Para máquinas WINDOWS usar o RubyInstaller através do link
+https://rubyinstaller.org/ (Instalar a versão com Devkit para não ter problemas)
+
+e a proposito sempre instalar a versão mais estável do ruby

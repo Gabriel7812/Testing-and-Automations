@@ -1,0 +1,10 @@
+as specs ficam armazenadas dentro da pasta integrations que limpamos anteriormente
+
+para criar sua 1 spec de teste você deve criar um arquivo com o nome a sua escolha com a extensão .json,
+Ex. Testes.json
+
+Digite: /// <reference types="cypress" /> em seu arquivo e salve (Autocomplete de códigos e explicação e documentação sobre 
+os comandos)
+
+Após criar sua Spec é só escrever seu código de automação e mandar executar pela janela do cypress
+caso não tenha conhecimento sobre JS e Cypress recomendo que faça um cursinho básico para aprendizado

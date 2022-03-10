@@ -1,0 +1,5 @@
+dentro da pasta fixtures apagar o arquivo example.json
+
+e dentro da pasta integration apagar TODOS os arquivos deixar a pasta VAZIA
+
+APAGUE SOMENTE ESTES ARQUIVOS OS RESTANTES DEVERÃO SER MANTIDOS

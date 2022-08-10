@@ -4,7 +4,7 @@ https://1drv.ms/u/s!AqtzQAaXe6ycplYf_G0PDPxjGUg7?e=G4ahcG (Video QNW#03)
 Baixar o Console Emulator (Emulador de console LINUX) FULL(Completo) no link:
 https://cmder.net/
 
-Criar uma pasta com o nome Tools no CMDER
+Criar uma pasta com o nome Tools no diretório C: de dua máquina
 
 Após baixar você deverá mover o zip descompactar e instalar o cmder na pasta que você criou no diretório C:/Tools
 

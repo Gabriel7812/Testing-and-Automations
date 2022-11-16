@@ -1,0 +1,4 @@
+https://softdesign.com.br/blog/cypress_passo_a_passo_para_comecar_a_usar/#:~:text=No%20terminal%20do%20VS%20Code,testes%20exemplos%20do%20pr%C3%B3prio%20Cypress.
+
+"cypress:open":"cypress open" (Adicionar no scripts do package.json)
+npm run cypress:open (abrir cypress)

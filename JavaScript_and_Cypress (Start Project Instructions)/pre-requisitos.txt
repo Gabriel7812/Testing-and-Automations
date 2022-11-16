@@ -1,0 +1,2 @@
+- Ter o node.js instalado em sua máquina
+- Ter o visual Studio Code Instalado em sua máquina

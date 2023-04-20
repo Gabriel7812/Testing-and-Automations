@@ -3,7 +3,7 @@ comandos devem ser efetuados no terminal do visual studio code
 npm init --yes (iniciando o projeto, --yes significa yes automaticamente para todas as perguntas caso queira responder uma a uma
 separadamente execute somente o npm init sem o --yes), após executar será criado um arquivo package.json
 
-cls (Limpa a tela do terminal)
+cler(Limpa a tela do terminal VScode) ou cls (terminal do linux)
 
 npm instal -D cypress (Instala o cypress na ultima versão disponivel)
 npm instal -D cypress@4.1 (Instala o cypress em uma versão especifica que está setada no comando apos o @)

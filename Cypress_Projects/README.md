@@ -15,3 +15,5 @@
 {
     "chromeWebSecurity": false
 }
+
+# Foi também adicionado um wait de 21 segundos no final do ultimo teste para verificação visual, não é obrigatório porem foi adicionado.

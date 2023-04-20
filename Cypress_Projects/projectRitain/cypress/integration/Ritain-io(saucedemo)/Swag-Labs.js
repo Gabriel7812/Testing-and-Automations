@@ -1,7 +1,6 @@
 /// <reference types="cypress" />
 
-
-describe('Login', () => {
+describe('e-commerce_Swag Labs', () => {
   beforeEach(() => {
     cy.visit('https://www.saucedemo.com/')
   })
